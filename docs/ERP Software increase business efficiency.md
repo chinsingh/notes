@@ -1,4 +1,4 @@
-# ERP Softwares increase business efficiency
+# ERP Software increase business efficiency
 
 Typical business process has many departments/business units(BU) which communicate and exchange data with each other and with third parties. Making these processes effective means an increase in efficiency of the business as a whole.
 

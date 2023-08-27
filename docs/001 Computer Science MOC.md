@@ -122,7 +122,7 @@
 
 ## [[ERP]]
 
-- [[ERP Softwares increase business efficiency]]
+- [[ERP Software increase business efficiency]]
 - [[Generic Business Process]]
 
 ### [[SAP]]
