@@ -1,0 +1,1 @@
+If a person was in a room accelerating in free space and he pointed the laser at the wall in front of him, the point where the beam hits the wall will be little lower than where the laser started from. Since the room is accelerating.

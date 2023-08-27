@@ -1,0 +1,3 @@
+# Active Funds can hold cash and invest when market is down
+
+An active mutual fund can keep 35% of its fund as cash. Hence, it can save some cash until stocks are costly and invest heavily when market goes down. On the other hand, an index fund has to invest all of its fund irrespective of whether the market is costly or cheap. There is no fund manager to tell them to store the cash if prices are high.

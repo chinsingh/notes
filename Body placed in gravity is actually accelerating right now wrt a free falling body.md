@@ -1,0 +1,1 @@
+The fundamental behaviour of any object is to follow its [[geodesic]] along space-time. That would mean that any object will go further and further inside earth untill it reaches earth's center -- and will still keep moving. Earth itself will collapse in itself. 

@@ -1,0 +1,8 @@
+# Index Funds are a good investment option in US but not in India
+
+- In America and European countries, the stock market is highly efficient. Most adults invest in stock market. That is why, its challenging to find under-valued stocks. Its difficult even for the fund managers to beat the index. Thus, its better to invest in index funds and earn returns matching the index.
+- The economy of US is saturated/developed. Thus, they don't get high growth like India. When you tell your fund manager to invest in Active Mutual Funds, you're basically telling him to find companies which take this opportunity of fast paced economy and give you returns even higher than index. But in US, competition is severe since the population is lesser than India, but businessmen are more. Thus, its much more difficult for every business to get ahead of its competitors. And since the economy is also slow, the overall growth of companies is lower than companies in India.
+
+	Looking for high-growth companies is a very difficult and time-taking exercise and not worth it; because even after so much effort, the returns won't be that high. But in India, looking for outperforming companies is much easier. You should not let go of this opportunity.
+
+* Other arguments like [[Index Funds have low expense ratio]] also only fits countries like US. because you've to put a lot of effort in increasing return by 1%. But in countries like India, [[You can recover the fund management charge of an active fund by outperforming the index]].

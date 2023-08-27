@@ -1,0 +1,3 @@
+# To B2B or Not B2B
+
+B2B companies offer services or products to other businesses or the government. While B2C companies offer products directly to consumers. Understanding the business of B2B is more difficult than B2C for an ordinary investor, as there is no direct interaction of B2B companies with the consumers. Also, you can see these B2C companies working in your surroundings and their products being used by people. And you get reviews of those companies and estimate their future. If you’re a beginner, select companies/businesses that are easy to understand. For example, Colgate, Hindustan Unilever, Gillette, Zydus Wellness. Make sure you understand the brand and its products well.

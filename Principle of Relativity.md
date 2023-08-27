@@ -1,0 +1,1 @@
+All [[Inertial Frame of Reference]] are governed by the same laws and equations of physics.

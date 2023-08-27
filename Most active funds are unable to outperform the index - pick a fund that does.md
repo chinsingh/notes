@@ -1,0 +1,3 @@
+# Most [[active fund]]s are unable to outperform the index - pick a fund that does
+
+Most active funds are unable to outperform the index. Most fund managers can't get past index due to their terrible stock-picking. This is the reason, why your fund selection is important. Because there are few funds which consistently outperform the index not by 2-4%, but even by 10%. This is hence, your responsibility to pick a fund that can consistently give you 8-10% higher returns than index.

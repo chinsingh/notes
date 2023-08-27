@@ -1,0 +1,1 @@
+Since [[Light is an electromagnetic wave]].

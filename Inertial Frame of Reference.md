@@ -1,0 +1,1 @@
+A frame of reference in which [[inertia]] works. 

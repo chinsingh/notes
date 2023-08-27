@@ -1,0 +1,3 @@
+- You don't feel weightless while sitting on your ass, do you? 
+- If a object started accelerating for upwards for some reason (some force acting on it, maybe God is pulling it) it will be experiencing a [[pseudo force]] due to its inertia and will start weighing. 
+- [[Body placed in gravity is actually accelerating right now wrt a free falling body]]

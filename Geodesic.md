@@ -1,0 +1,1 @@
+A curve representing shortest path between two points on a surface.

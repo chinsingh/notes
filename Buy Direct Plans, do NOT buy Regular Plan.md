@@ -1,0 +1,5 @@
+# Buy [[Direct Plan]]s, do NOT buy [[Regular Plan]]s
+
+- Earlier, options to buy online were not available, not everyone had access to a smartphone or internet. Which made buying mutual fund a stretched out process with a lot of paperwork. You'd require visiting Banks or Mutual fund offices and do all the physical work. This was made easy by a distributor or agent, who did all this work for a 1-2% commission. It wouldn't seem much to the investors since it felt like the mutual fund company is paying the agent. [[Expense Ratio]] ~ 2-2.5%. So if you invest ₹100, ₹1 is kept by the company and ₹1 is paid to the agent and only ₹98 was actually invested.
+- Also, the commission is on the total amount invested. Suppose you invest ₹10k this year, the mutual fund company charges you ₹100 for that. The next year you invest another ₹10k, you're not just charged on this amount. You're charged on the entire amount you've invested till now. So they get ₹200. This keeps on increasing as you keep investing.
+- Direct plans are always cheaper in any case.
