@@ -21,10 +21,10 @@
     - [[Object Type Conversion]]
       - [[Upcasting]]
       - [[Downcasting]]
-    - [[Implicit Casting]] | [[Explicit Casting]]
-- Calling Functions/Passing Arguments - [[by value]] | [[by reference]]
-- [[Exception]] | [[Exception Handling]] | [[Custom Exception]] | [[Exception Propagation]]
-- Pointers - [[Pointers vs References]] | [[Pointer Arithmetic]] | [[Manual Memory Management]] | [[Advantages of Pointers]] | [[Disadvantages of Pointers]]
+    - [[Implicit Casting]] \ [[Explicit Casting]]
+- Calling Functions/Passing Arguments - [[by value]] \ [[by reference]]
+- [[Exception]] \ [[Exception Handling]] \ [[Custom Exception]] \ [[Exception Propagation]]
+- Pointers - [[Pointers vs References]] \ [[Pointer Arithmetic]] \ [[Manual Memory Management]] \ [[Advantages of Pointers]] \ [[Disadvantages of Pointers]]
 - [[Dependency]]
 - [[Program Lifecycle Phase]]
 - Multithreading: [[How to make method or block of code thread safe]]
@@ -36,14 +36,14 @@
 ### [[Programming Paradigm]]s
 
 - [[Programming Paradigm as a way to classify languages]]
-- [[001 Object Oriented Programming MOC]] | [[Imperative vs Declarative]] |
+- [[001 Object Oriented Programming MOC]] \ [[Imperative vs Declarative]] \
 - [[Event Driven Programming]]: [[Main Loop]]
 - [[Attribute Oriented Programming]] - [[Directive]]s/[[Pragma]]s
 
 ### Languages
 
 - C++: [[Creating Objects in C++]]
-- [[002 Java MOC]] | [[Python]] | [[JavaScript]] | [[004 ABAP MOC]]
+- [[002 Java MOC]] \ [[Python]] \ [[JavaScript]] \ [[004 ABAP MOC]]
 - SQL
   - [[Transactions in SQL]]
   - [[Orderby after Groupby]]
@@ -80,7 +80,7 @@
 
 ## Software Architecture
 
-- [[Architecture]] | [[Design]] | [[Pattern]]
+- [[Architecture]] \ [[Design]] \ [[Pattern]]
 - [[same-same-but-different classes]]
 - [[Architecture Style]]
   - [[Monolithic Architecture]]
@@ -88,7 +88,7 @@
 - [[Architecture Pattern]]
 - [[Design Pattern]]
 - [[Architecture Style, Architecture Pattern and Design Pattern are just different levels of abstraction]]
-- Design Principles - [[DRY]] | [[SOLID]] | [[Inversion of Control (IoC)]] | [[Do NOT create Dependency(s), especially in a constructor]] | [[Law of Demeter or Principle of Least Knowledge]] | [[Don't dig too deep in chain calls]] | [[a principle is just in principle]]
+- Design Principles - [[DRY]] \ [[SOLID]] \ [[Inversion of Control (IoC)]] \ [[Do NOT create Dependency(s), especially in a constructor]] \ [[Law of Demeter or Principle of Least Knowledge]] \ [[Don't dig too deep in chain calls]] \ [[a principle is just in principle]]
 
 ### Diagrams
 
@@ -102,14 +102,14 @@
 - [[Architecture Style]]s
   - [[Microservices]] Architecture
 - [[Distributed System]]
-- [[Load Balancing]] | [[Consistent Hashing]]
+- [[Load Balancing]] \ [[Consistent Hashing]]
 - [[Decoupling]] => [[Extensibility]]
 - [[ACID]]
 - [[Design an application with no constraints]]
 
 ### Computer Language Architecture
 
-- Memory Management: [[Explicit Memory Management]] | [[Implicit Memory Management]]
+- Memory Management: [[Explicit Memory Management]] \ [[Implicit Memory Management]]
 
 ### Performance
 
@@ -140,18 +140,18 @@
 ## [[OS]]
 
 - [[RAM]]
-- [[System Environment]] | [[Environment Variable]]
+- [[System Environment]] \ [[Environment Variable]]
 - Multitasking:
-  - [[Concurrent]] and [[Parallel]] computing | [[Concurrent vs Parallel]] | [[Deadlock]]
-  - [[Multithreading]] | [[Multiprocessing]] | [[Thread]] | [[Process vs Thread]]
-  - Scheduling - [[Pre-emptive Scheduling]] | [[Time Slicing]]
+  - [[Concurrent]] and [[Parallel]] computing \ [[Concurrent vs Parallel]] \ [[Deadlock]]
+  - [[Multithreading]] \ [[Multiprocessing]] \ [[Thread]] \ [[Process vs Thread]]
+  - Scheduling - [[Pre-emptive Scheduling]] \ [[Time Slicing]]
 
 ## DevOps
 
 - [[Continuous Integration]]
 - [[Physical Server]]: [[Resource wastage in physical server]]
-- [[Virtual Machine]]s: [[Hypervisor]] | [[Issues with VMs]] | [[VM Template]]
-- [[Container]]s: [[Container Image]] | [[Container Registr]]y  [[Containerized App]] |[[Advantages of Containers]]
+- [[Virtual Machine]]s: [[Hypervisor]] \ [[Issues with VMs]] \ [[VM Template]]
+- [[Container]]s: [[Container Image]] \ [[Container Registr]]y  [[Containerized App]] \[[Advantages of Containers]]
 - [[Docker]]
   - [[Docker Inc]]
   - [[Dockerfile]]
@@ -163,7 +163,7 @@
 
 ### Linux
 
-- [[Linux Signal]]s: [[SIGTERM]] | [[SIGKILL]]
+- [[Linux Signal]]s: [[SIGTERM]] \ [[SIGKILL]]
 
 ## Networking
 
@@ -177,7 +177,7 @@
 
 - HTTP Methods: [[Mandatory HTTP Methods]]
   - [[GET]]
-  - [[POST]] | [[PUT]] | [[PATCH]] [[JSON Patch]]
+  - [[POST]] \ [[PUT]] \ [[PATCH]] [[JSON Patch]]
   - [[DELETE]]
   - [[HEAD]]
   - [[CONNECT]]
@@ -185,7 +185,7 @@
   - [[TRACE]]
 - [[HTTP Response Code]]s
 - [[Port Mapping or Forwarding]]
-- [[REST]] | [[SOAP]]
+- [[REST]] \ [[SOAP]]
 
 ## Algorithms
 
@@ -194,7 +194,7 @@
   - [[Rehashing]]
   - [[Consistent Hashing]]
 - Searching: [[Binary Search]]
-- Sorting: [[Merge Sort]] | [[Quick Sort]] | [[Heap Sort]]
+- Sorting: [[Merge Sort]] \ [[Quick Sort]] \ [[Heap Sort]]
 - [[Adding to a Linked List]] [[Traversing a binary search tree]]
 Minimum spanning tree
 Reverse a string in place
@@ -202,10 +202,10 @@ Reverse a string in place
 
 ## Machine Learning
 
-- [[Machine Learning Algorithms]] | [[Rule-based Algorithms]]
+- [[Machine Learning Algorithms]] \ [[Rule-based Algorithms]]
 - [[Statistical Classification]]
 - Phases of Machine Learning Model: [[Model Training]] [[Machine Learning Prediction]]
-- I/O: [[Feature Vector]] | [[Target Variable]] [[Loss Function]]
+- I/O: [[Feature Vector]] \ [[Target Variable]] [[Loss Function]]
 - [[ML Model is only as good as the feature vector]]
 
 ### References
@@ -348,7 +348,6 @@ Reverse a string in place
 [Container Image]: <Container Image> "Container Image"
 [Container Registr]: <Container Registr> "Container Registries"
 [Containerized App]: <Containerized App> "Containerized App"
-[Advantages of Containers]: <Advantages of Containers> "Advantages of Containers"
 [Docker]: Docker "Docker"
 [Docker Inc]: <Docker Inc> "Docker Inc"
 [Dockerfile]: Dockerfile "Dockerfile"
