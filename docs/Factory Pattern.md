@@ -6,7 +6,7 @@
 - Solution
 
     Move creation of objects to object factory class
-    ![Factory class object creation](library/attachments/2022-12-17-05-47-24.png)
+    ![Factory class object creation](../attachments/2022-12-17-05-47-24.png)
 
 - Testability advantage
 
