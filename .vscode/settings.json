@@ -10,6 +10,9 @@
         "other": "on"
     }
   },
+  "markdown.copyFiles.destination": {
+    "*": "${documentWorkspaceFolder}/attachments/${documentBaseName}-${fileName}"
+  },  
   "files.defaultLanguage": "markdown",
   "files.exclude": {
     "**/node_modules": true
