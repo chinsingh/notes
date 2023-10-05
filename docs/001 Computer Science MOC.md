@@ -32,6 +32,7 @@
 ### Clean Coding
 
 - Naming: [[Class name suffixes]]
+- [[Bad Code can lead to Good Code]]
   
 ### [[Programming Paradigm]]s
 
@@ -247,6 +248,7 @@ Reverse a string in place
 [Program Lifecycle Phase]: <Program Lifecycle Phase> "Program Lifecycle Phase"
 [How to make method or block of code thread safe]: <How to make method or block of code thread safe> "block of code thread safe"
 [Class name suffixes]: <Class name suffixes> "Class name suffixes"
+[Bad Code can lead to Good Code]: <Bad Code can lead to Good Code> "Bad Code can lead to Good Code"
 [Programming Paradigm]: <Programming Paradigm> "Programming Paradigms"
 [Programming Paradigm as a way to classify languages]: <Programming Paradigm as a way to classify languages> "Programming Paradigm as a way to classify languages"
 [001 Object Oriented Programming MOC]: <001 Object Oriented Programming MOC> "Object Oriented Programming MOC"
