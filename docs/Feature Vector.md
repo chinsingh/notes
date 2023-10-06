@@ -4,4 +4,4 @@
 
 Input to a machine learning model.
 
-Its a n-dimensional vector of different parameters fed to a ML model. Each parameters represent different properties which can be useful for classification.
+Its a n-dimensional vector(matrix) of different parameters fed to a ML model. Each parameters represent different properties which can be useful for classification.
