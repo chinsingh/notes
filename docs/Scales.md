@@ -1,4 +1,4 @@
-# Scales
+# Major Chord Families
 
 |Steps and Chord type| Maj | 1 | Min | 1 | Min |1/2| Maj | 1 | Maj | 1 | Min | 1 | Dim |1/2| Maj |
 |--------------------|-----|---|-----|---|-----|---|-----|---|-----|---|-----|---|-----|---|-----|

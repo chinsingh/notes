@@ -1,6 +1,7 @@
 # Serialization
 
-Mechanism of writing the state of an object into a byte stream
+- Mechanism of writing the state of an object into a byte stream.
+- Converting state of an object into a form that can be persisted or transported.
 
 [[Static Variables can't be serialized]]
 

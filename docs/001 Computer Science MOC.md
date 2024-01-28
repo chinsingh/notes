@@ -63,6 +63,7 @@
 - [[Seam]]
 - [[Test Isolation]]: [[How to ensure test isolation]]
 - Software Issues
+  - [[Bug Lifecycle]]
   - [[Bug]]
     - [[Regression]]
   - [[Fault]]
@@ -88,6 +89,7 @@
   - [[Monolithic Architecture]]
   - [[Microservices]] Architecture
 - [[Architecture Pattern]]
+  - [[Messaging Pattern]]: [[Request-response]]
 - [[Design Pattern]]
 - [[Architecture Style, Architecture Pattern and Design Pattern are just different levels of abstraction]]
 - Design Principles - [[DRY]] \ [[SOLID]] \ [[Inversion of Control (IoC)]] \ [[Do NOT create Dependency(s), especially in a constructor]] \ [[Law of Demeter or Principle of Least Knowledge]] \ [[Don't dig too deep in chain calls]] \ [[a principle is just in principle]]
@@ -189,19 +191,6 @@
 - [[Port Mapping or Forwarding]]
 - [[REST]] \ [[SOAP]]
 
-## Algorithms
-
-- [[Rule-based Algorithms]]
-- [[Hashing]]
-  - [[Rehashing]]
-  - [[Consistent Hashing]]
-- Searching: [[Binary Search]]
-- Sorting: [[Merge Sort]] \ [[Quick Sort]] \ [[Heap Sort]]
-- [[Adding to a Linked List]] [[Traversing a binary search tree]]
-Minimum spanning tree
-Reverse a string in place
-- [[Algorithmic Problem Solving]]
-
 ## Machine Learning
 
 - [[Machine Learning Algorithms]] \ [[Rule-based Algorithms]]
@@ -209,6 +198,13 @@ Reverse a string in place
 - Phases of Machine Learning Model: [[Model Training]] [[Machine Learning Prediction]]
 - I/O: [[Feature Vector]] \ [[Target Variable]] [[Loss Function]]
 - [[ML Model is only as good as the feature vector]]
+- [[Linear Regression]]
+
+## Software Development Life Cycle (SDLC)
+
+- [[Program Lifecycle Phase]]
+- [[Bug Lifecycle]]
+- [[V-Model]]
 
 ### References
 
@@ -256,7 +252,7 @@ Reverse a string in place
 [Event Driven Programming]: <Event Driven Programming> "Event Driven Programming"
 [Main Loop]: <Main Loop> "Main Loop"
 [Attribute Oriented Programming]: <Attribute Oriented Programming> "Attribute Oriented Programming"
-[Creating Objects in C++]: <Creating Objects in C++> "Creating Objects in C++"
+[Creating Objects in C++]: <Creating Objects in C%2B%2B> "Creating Objects in C++"
 [002 Java MOC]: <002 Java MOC> "002 Java MOC"
 [004 ABAP MOC]: <004 ABAP MOC> "ABAP"
 [Transactions in SQL]: <Transactions in SQL> "Transactions in SQL"
@@ -272,6 +268,7 @@ Reverse a string in place
 [Seam]: Seam "Seam"
 [Test Isolation]: <Test Isolation> "Test Isolation"
 [How to ensure test isolation]: <How to ensure test isolation> "How to ensure test isolation"
+[Bug Lifecycle]: <Bug Lifecycle> "Bug Lifecycle"
 [Bug]: Bug "Bug"
 [Regression]: Regression "Regression"
 [Failure]: Failure "Failure"
@@ -288,12 +285,14 @@ Reverse a string in place
 [Monolithic Architecture]: <Monolithic Architecture> "Monolithic Architecture"
 [Microservices]: Microservices "Microservices"
 [Architecture Pattern]: <Architecture Pattern> "Architecture Pattern"
+[Messaging Pattern]: <Messaging Pattern> "Messaging Pattern"
+[Request-response]: Request-response "Request-response Model"
 [Design Pattern]: <Design Pattern> "Design Pattern"
-[Architecture Style, Architecture Pattern and Design Pattern are just different levels of abstraction]: <Architecture Style, Architecture Pattern and Design Pattern are just different levels of abstraction> "Architecture Style, Architecture Pattern and Design Pattern are just different levels of abstraction"
+[Architecture Style, Architecture Pattern and Design Pattern are just different levels of abstraction]: <Architecture Style%2C Architecture Pattern and Design Pattern are just different levels of abstraction> "Architecture Style, Architecture Pattern and Design Pattern are just different levels of abstraction"
 [DRY]: DRY "DRY"
 [SOLID]: SOLID "SOLID"
 [Inversion of Control (IoC)]: <Inversion of Control (IoC)> "Inversion of Control (IoC)"
-[Do NOT create Dependency(s), especially in a constructor]: <Do NOT create Dependency(s), especially in a constructor> "Do NOT create Dependency(s), especially in a constructor"
+[Do NOT create Dependency(s), especially in a constructor]: <Do NOT create Dependency(s)%2C especially in a constructor> "Do NOT create Dependency(s), especially in a constructor"
 [Law of Demeter or Principle of Least Knowledge]: <Law of Demeter or Principle of Least Knowledge> "Law of Demeter or Principle of Least Knowledge"
 [Don't dig too deep in chain calls]: <Don't dig too deep in chain calls> "Don't dig too deep in chain calls"
 [a principle is just in principle]: <a principle is just in principle> "a principle is just in principle"
@@ -381,10 +380,8 @@ Reverse a string in place
 [Port Mapping or Forwarding]: <Port Mapping or Forwarding> "Port Mapping or Forwarding"
 [REST]: rest "REST"
 [SOAP]: soap "SOAP"
-[Rule-based Algorithms]: <Rule-based Algorithms> "Rule-based Algorithms"
-[Hashing]: Hashing "Hashing"
-[Rehashing]: Rehashing "Rehashing"
 [Machine Learning Algorithms]: <Machine Learning Algorithms> "Machine Learning Algorithms"
+[Rule-based Algorithms]: <Rule-based Algorithms> "Rule-based Algorithms"
 [Statistical Classification]: <Statistical Classification> "Statistical Classification"
 [Model Training]: <Model Training> "Model Training"
 [Machine Learning Prediction]: <Machine Learning Prediction> "Machine Learning Prediction"
@@ -392,4 +389,6 @@ Reverse a string in place
 [Target Variable]: <Target Variable> "Target Variable"
 [Loss Function]: <Loss Function> "Loss Function"
 [ML Model is only as good as the feature vector]: <ML Model is only as good as the feature vector> "ML Model is only as good as the feature vector"
+[Linear Regression]: <Linear Regression> "Linear Regression"
+[V-Model]: V-Model "Verification and Validation Model (V-Model)"
 [//end]: # "Autogenerated link references"
