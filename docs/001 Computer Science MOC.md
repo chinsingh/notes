@@ -124,6 +124,8 @@
 - [[Tools for Performance Analysis]]
 - [[Improving response time at expense of memory]]
 
+## [[006 Data Structures and Algorithms MOC]]
+
 ## [[ERP]]
 
 - [[ERP Software increase business efficiency]]
@@ -316,6 +318,7 @@
 [KPIs of Performance]: <KPIs of Performance> "KPIs of Performance"
 [Tools for Performance Analysis]: <Tools for Performance Analysis> "Tools for Performance Analysis"
 [Improving response time at expense of memory]: <Improving response time at expense of memory> "Improving response time at expense of memory"
+[006 Data Structures and Algorithms MOC]: <006 Data Structures and Algorithms MOC> "Data Structures and Algorithms"
 [ERP]: ERP "ERP"
 [ERP Software increase business efficiency]: <ERP Software increase business efficiency> "ERP Software increase business efficiency"
 [Generic Business Process]: <Generic Business Process> "Generic Business Process"
