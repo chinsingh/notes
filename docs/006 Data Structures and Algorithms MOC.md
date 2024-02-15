@@ -22,6 +22,8 @@
     - [[Adjacency List]]
   - [[Graph Traversal]]
     - [[DFS]]: [[Recursive Implementation of DFS]] \ [[Iterative Implementation of DFS]]
+    - [[Comparison of recursive and iterative DFS]]
+    - [[How topological sort is a natural outcome of reversing the postorder DFS]]
 
 ## Algorithms
 
@@ -62,6 +64,8 @@ Reverse a string in place
 [DFS]: DFS "Depth-first Search (DFS)"
 [Recursive Implementation of DFS]: <Recursive Implementation of DFS> "Recursive Implementation of DFS"
 [Iterative Implementation of DFS]: <Iterative Implementation of DFS> "Iterative Implementation of DFS"
+[Comparison of recursive and iterative DFS]: <Comparison of recursive and iterative DFS> "Comparison of recursive and iterative DFS"
+[How topological sort is a natural outcome of reversing the postorder DFS]: <How topological sort is a natural outcome of reversing the postorder DFS> "How topological sort is a natural outcome of reversing the postorder DFS"
 [Rule-based Algorithms]: <Rule-based Algorithms> "Rule-based Algorithms"
 [Hashing]: Hashing "Hashing"
 [Rehashing]: Rehashing "Rehashing"
