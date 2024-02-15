@@ -16,10 +16,12 @@
     - [[Tree]]
       - [[Binary Tree]]s
       - [[Binary Search Tree]]
-  - Reprensing Graphs as data structure
+  - Representing Graphs as data structure
     - [[Adjacency Matrix]]
     - [[Edge Set]]
     - [[Adjacency List]]
+  - [[Graph Traversal]]
+    - [[DFS]]: [[Recursive Implementation of DFS]] \ [[Iterative Implementation of DFS]]
 
 ## Algorithms
 
@@ -56,6 +58,10 @@ Reverse a string in place
 [Adjacency Matrix]: <Adjacency Matrix> "Adjacency Matrix"
 [Edge Set]: <Edge Set> "Edge Set"
 [Adjacency List]: <Adjacency List> "Adjacency List"
+[Graph Traversal]: <Graph Traversal> "Graph Traversal"
+[DFS]: DFS "Depth-first Search (DFS)"
+[Recursive Implementation of DFS]: <Recursive Implementation of DFS> "Recursive Implementation of DFS"
+[Iterative Implementation of DFS]: <Iterative Implementation of DFS> "Iterative Implementation of DFS"
 [Rule-based Algorithms]: <Rule-based Algorithms> "Rule-based Algorithms"
 [Hashing]: Hashing "Hashing"
 [Rehashing]: Rehashing "Rehashing"
