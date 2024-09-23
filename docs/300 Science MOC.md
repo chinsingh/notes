@@ -18,12 +18,17 @@ All of mathematics is based on [[The Axiomatic Method]]
 
 - Arithmetic Progression: [[Sum of first N natural numbers]]
 
+https://youtu.be/f079K1f2WQk?si=loqOw9AUBwwFnQac
+
+https://www.youtube.com/watch?v=L9hU4xrhEDs&ab_channel=QuantumSense 
+
 ## Physics
 
 ### Classical Physics
 
 - Mechanics
 - Gravitation: [[Gravity and space-time in Newtonian mechanics]]
+https://www.youtube.com/watch?v=D89ngRr4uZg&ab_channel=TED-Ed
 - Optics
 - Acoustics
 - Electromagnetism [[Electromagnetic waves travel at the speed of light]]
